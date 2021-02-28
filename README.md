@@ -1,4 +1,4 @@
-<img src="https://github.com/MIQCRAFT/MIQCRAFT/blob/MIQCRAFT-assets/Miqcraft%20Staff/banner.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/MIQCRAFT/MIQCRAFT/blob/main/Miqcraft%20Staff/banner.jpg" alt="miqcraft banner">
 
 # MIQCRAFT 🐝
 Miqcraft is a tool that brings Motion Graphic to everyone the whole world. What's cool is that you can customize any part of the Motion Graphic create your own composition !.
@@ -11,9 +11,9 @@ Miqcraft is a tool that brings Motion Graphic to everyone the whole world. What'
 * Cinema 4D
 
 ## Examples of Work
-<img src="https://github.com/MIQCRAFT/MIQCRAFT/blob/MIQCRAFT-assets/Miqcraft%20Staff/gif.gif" width="512" >
+<img src="https://github.com/MIQCRAFT/MIQCRAFT/blob/main/Miqcraft%20Staff/gif.gif" width="512" >
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/MIQCRAFT/MIQCRAFT/blob/MIQCRAFT-assets/Miqcraft%20Staff/logo3.png"></a>
+## Find me around the web 🌎: <a href="https://www.youtube.com/c/MIQCRAFT"><img align="left" width="150" height="150" src="https://github.com/MIQCRAFT/MIQCRAFT/blob/main/Miqcraft%20Staff/logo3.png"></a>
 - Shop Motion Graphic <a href="https://miqlinks.netlify.app/shop">Miqcraft/Shop</a>
 - Contact me if you want to collaboration <a href="https://www.instagram.com/miqcraft_/">Instagram/Miqcraft_</a>
-- Join my community <a href="https://www.linkedin.com/in/monicampowell/">Discord/Mewnity</a>
+- Join my community <a href="https://mewinvite.netlify.app/">Discord/Mewnity</a>
