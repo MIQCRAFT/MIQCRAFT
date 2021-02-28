@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="https://github.com/MIQCRAFT/MIQCRAFT/blob/MIQCRAFT-assets/Miqcraft%20Staff/banner.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
-<!--
-**MIQCRAFT/MIQCRAFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# MIQCRAFT 🐝
+Miqcraft is a tool that brings Motion Graphic to everyone the whole world. What's cool is that you can customize any part of the Motion Graphic create your own composition !.
 
-Here are some ideas to get you started:
+## Skills and Experience
+* Adobe After effects
+* Adobe Premiere
+* Adobe Ilustrator
+* Adobe Photoshop
+* Cinema 4D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Examples of Work
+<img src="https://github.com/MIQCRAFT/MIQCRAFT/blob/MIQCRAFT-assets/Miqcraft%20Staff/gif.gif" width="512" >
+
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/MIQCRAFT/MIQCRAFT/blob/MIQCRAFT-assets/Miqcraft%20Staff/logo3.png"></a>
+- Shop Motion Graphic <a href="https://miqlinks.netlify.app/shop">Miqcraft/Shop</a>
+- Contact me if you want to collaboration <a href="https://www.instagram.com/miqcraft_/">Instagram/Miqcraft_</a>
+- Join my community <a href="https://www.linkedin.com/in/monicampowell/">Discord/Mewnity</a>
